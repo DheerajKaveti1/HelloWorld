@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
-
+#import "RATreeView.h"
+@interface ViewController : UIViewController<RATreeViewDelegate,RATreeViewDataSource>
+@property (strong, nonatomic) NSArray *data;
 @end
 

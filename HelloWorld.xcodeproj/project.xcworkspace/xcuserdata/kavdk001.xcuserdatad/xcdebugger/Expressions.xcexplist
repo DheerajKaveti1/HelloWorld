@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController loadDataLevel:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RADataObject selectAllChilds:]:RADataObject.m">
+      </ContextState>
+      <ContextState
+         contextName = "__39-[ViewController treeView:cellForItem:]_block_invoke:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RATreeView selectAllChilds:]:RATreeView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataObjectddd">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController getChildArray:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController getChildCount:]:ViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
